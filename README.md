@@ -7,4 +7,4 @@
 ## Running your tests
 * To run a single test, run `npm run single`
 * To run local tests, run `npm run local`
-* To run parallel tests, run `npm run parallel`
+* To run tests in parallel, run `npm run parallel`
